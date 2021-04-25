@@ -1,3 +1,5 @@
+## PLEASE INSTALL requests package IN YOUR PYTHON ENVIRONMENT TO RUN THE APPLICATION ##
+
 This program will only show the trading pairs that you saved in the support_data.py file.
 
 Add the trading pairs you would like to query in the dict_pairing dictionary (follow the convention).
