@@ -32,7 +32,7 @@ def menu():
 
     options = ['1', '2', '3']
 
-    selection = input("Please selection an option: ")
+    selection = input("Please select an option: ")
     if selection not in options:
         print("Error Selection!")
     else:
